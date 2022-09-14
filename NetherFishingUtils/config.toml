@@ -1,0 +1,45 @@
+
+[pings]
+	magma_ping = true
+	double_hook_ping = true
+	carrot_king_ping = true
+	jawbus_ping = false
+	thunder_ping = true
+
+[text]
+	carrot_king_text = true
+	magma_ping = true
+	jawbus_text = false
+	thunder_text = true
+	magma_text = true
+
+[config]
+	double_hook_ping = true
+	jawbus_ping = true
+	thunder_ping = true
+
+[party]
+	thunder_party_notification = true
+	jawbus_party_notification = true
+	vanquisher_party_notification = true
+
+[misc]
+	highlighted_bobber = false
+	bobber_counter = true
+
+	[misc.bobbercolors]
+		blue_percentage = 1.0
+		rgb = false
+		red_percentage = 0.3
+		green_percentage = -3.1918912E-16
+
+[bobber]
+	highlighted_bobber = false
+	bobber_counter = true
+
+	[bobber.bobbercolors]
+		blue_percentage = -3.1918912E-16
+		rgb = true
+		red_percentage = 0.65
+		green_percentage = 1.0
+
